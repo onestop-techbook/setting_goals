@@ -49,5 +49,18 @@
 
 == 執筆者
 
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/KazuyaNakahara_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        なつお @KazuyaNakahara https://twitter.com/KazuyaNakahara\\
+                \end{minipage}
+    \hspace{1ex}
+//}
+https://natsuo.jp
+SIer経験、メガベンチャーを経て、現在はAIを開発する会社のフルスタックエンジニアLv1です。現在はAI関係の会社で対話しています。
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

@@ -76,6 +76,8 @@ PyConJP2018, 2019事務局スタッフ。Japan PHP Conference 2018 スタッフ�
 https://natsuo.jp
 SIer経験、メガベンチャーを経て、現在はAIを開発する会社のフルスタックエンジニアLv1です。現在はAI関係の会社で対話しています。
 
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering

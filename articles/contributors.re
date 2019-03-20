@@ -76,4 +76,16 @@ PyConJP2018, 2019事務局スタッフ。Japan PHP Conference 2018 スタッフ�
 https://natsuo.jp
 SIer経験、メガベンチャーを経て、現在はAIを開発する会社のフルスタックエンジニアLv1です。現在はAI関係の会社で対話しています。
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/komacchi_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        こまっち @komacchi_u https://twitter.com/komacchi_u\\
+                \end{minipage}
+    \hspace{1ex}
+//}
+製品サポート、システム運用、開発保守、インフラ構築(オンプレミス)などさまざまな経験を得て、現在、クラウド案件に携わっています。
+
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

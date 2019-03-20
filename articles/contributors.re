@@ -55,7 +55,7 @@
         \includegraphics[width=.75\linewidth]{images/contributors/hanahiroaze_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        はない @hanahiro_aze https://twitter.com/hanahiro_aze\\
+        はない @hanahiro\_aze https://twitter.com/hanahiro\_aze\\
                 \end{minipage}
     \hspace{1ex}
 //}

@@ -49,6 +49,19 @@
 
 == 執筆者
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/hanahiroaze_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        はない @hanahiro_aze https://twitter.com/hanahiro_aze\\
+                \end{minipage}
+    \hspace{1ex}
+//}
+https://hanahirodev.hatenablog.com/
+国内メーカー系SIer、教育系ベンチャーを経て、スタディプラス株式会社にてサーバーサイドエンジニアとして働いています。
+PyConJP2018, 2019事務局スタッフ。Japan PHP Conference 2018 スタッフ。
 　
 //embed{
     \begin{minipage}{.1\linewidth}

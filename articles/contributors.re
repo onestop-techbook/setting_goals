@@ -83,7 +83,7 @@ SIer経験、メガベンチャーを経て、現在はAIを開発する会社�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/komacchi_400x400.png
+        \includegraphics[width=.75\linewidth]{images/contributors/komacchi_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         こまっち @komacchi\_u https://twitter.com/komacchi\_u\\

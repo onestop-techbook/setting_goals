@@ -62,7 +62,9 @@
 https://hanahirodev.hatenablog.com/
 国内メーカー系SIer、教育系ベンチャーを経て、スタディプラス株式会社にてサーバーサイドエンジニアとして働いています。
 PyConJP2018, 2019事務局スタッフ。Japan PHP Conference 2018 スタッフ。
+
 　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -81,7 +83,7 @@ SIer経験、メガベンチャーを経て、現在はAIを開発する会社�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/komacchi_400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/komacchi_400x400.png
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         こまっち @komacchi\_u https://twitter.com/komacchi\_u\\
@@ -90,4 +92,18 @@ SIer経験、メガベンチャーを経て、現在はAIを開発する会社�
 //}
 製品サポート、システム運用、開発保守、インフラ構築(オンプレミス)などさまざまな経験を得て、現在、クラウド案件に携わっています。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nemu_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ねむ　https://twitter.com/nemu1986
+    \end{minipage}
+    \hspace{1ex}
+//}
+頭を打って変になったと、周りからは言われています。
+PMチームでDB担当しながら、副業で会社設立し、Management3.0のファシリテーターとして幸せな仕事の仕方を実験しながら広めています。みかんは世界一可愛い
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

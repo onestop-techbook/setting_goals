@@ -2,6 +2,7 @@
 
 //flushright{
 尾澤 愛実 
+
 まなみん @careerupdate
 //}
 

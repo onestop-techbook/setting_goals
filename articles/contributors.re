@@ -106,4 +106,23 @@ SIer経験、メガベンチャーを経て、現在はAIを開発する会社�
 //}
 頭を打って変になったと、周りからは言われています。
 PMチームでDB担当しながら、副業で会社設立し、Management3.0のファシリテーターとして幸せな仕事の仕方を実験しながら広めています。みかんは世界一可愛い
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/manamin.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        尾澤愛美　
+        まなみん　@careerupdate　https://twitter.com/careerupdate\\
+        全日本キャリア教育改善推進協会https://twitter.com/nemu1986
+    \end{minipage}
+    \hspace{1ex}
+//}
+大手広告Web系企業にて、Webディレクター、商品企画、人事を経て2019年1月より独立。現在はIT業界における職場内のコミュケーション支援（1on1など）、社員のメンタリング、研修、ファシリテーションを通して人材開発に取り組んでいる。一人一人に親身になる寄り添うことをモットーにヒアリングを通して個々が働きやすい環境をつくるお手伝いをしている。技術書典6では現場の「ズレ」を解消するコミュケーションメソッドを執筆した。https://careerupdate.booth.pm/items/1314405
+
+
+
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

@@ -15,6 +15,11 @@ CHAPS:
   - chap-manamin.re
   - chap-souju.re
 
+  # 目標を実現するためのタイムマネジメント
+
+  - chap-lean-with-kid.re
+  - chap-survey.re
+
 APPENDIX:
 
 POSTDEF:

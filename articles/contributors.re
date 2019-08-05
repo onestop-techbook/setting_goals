@@ -117,7 +117,7 @@ PMチームでDB担当しながら、副業で会社設立し、Management3.0の
     \begin{minipage}{.89\linewidth}
         尾澤愛美　
         まなみん　@careerupdate　https://twitter.com/careerupdate\\
-        全日本キャリア教育改善推進協会https://twitter.com/nemu1986
+        全日本キャリア教育改善推進協会
     \end{minipage}
     \hspace{1ex}
 //}

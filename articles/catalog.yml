@@ -15,11 +15,14 @@ CHAPS:
   - chap-manamin.re
   - chap-souju.re
   - chap-forte.re
+  - chap-barutaso-content.re
+
 
   # 目標を実現するためのタイムマネジメント
 
   - chap-lean-with-kid.re
   - chap-survey.re
+  - chap-timebox.re
 
 APPENDIX:
 

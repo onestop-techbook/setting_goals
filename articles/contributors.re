@@ -123,6 +123,20 @@ PMチームでDB担当しながら、副業で会社設立し、Management3.0の
 //}
 大手広告Web系企業にて、Webディレクター、商品企画、人事を経て2019年1月より独立。現在はIT業界における職場内のコミュケーション支援（1on1など）、社員のメンタリング、研修、ファシリテーションを通して人材開発に取り組んでいる。一人一人に親身になる寄り添うことをモットーにヒアリングを通して個々が働きやすい環境をつくるお手伝いをしている。技術書典6では現場の「ズレ」を解消するコミュケーションメソッドを執筆した。https://careerupdate.booth.pm/items/1314405
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/FORTE.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        FORTE(フォルテ) https://twitter.com/FORTEgp05\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。今回は自分の経験を通して、目標設定について必須なのかどうかを考えてみました。
+
 
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

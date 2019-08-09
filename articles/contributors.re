@@ -137,6 +137,19 @@ PMチームでDB担当しながら、副業で会社設立し、Management3.0の
 //}
 SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。今回は自分の経験を通して、目標設定について必須なのかどうかを考えてみました。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ebichiki.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        えびちき https://twitter.com/ebichiki\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+IT企業で働くママエンジニアです。自分自身が「子育てをしながら働く社員」としてロールモデルとなり、働きやすい職場をつくることが目標です。
 
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

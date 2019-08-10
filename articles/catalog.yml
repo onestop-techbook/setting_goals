@@ -17,6 +17,7 @@ CHAPS:
   - chap-forte.re
   - chap-barutaso-content.re
   - chap-erukiti-easy.re
+  - chap-erukiti-todo.re
 
   # 目標を実現するためのタイムマネジメント
 
@@ -24,7 +25,6 @@ CHAPS:
   - chap-survey.re
   - chap-timebox.re
   - chap-ebichiki.re
-
 
 APPENDIX:
 

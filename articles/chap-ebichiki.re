@@ -46,7 +46,7 @@
 === 耳から情報収集する
 通勤時間や家事をしながらPodcastを聴いています。Podcastとはいつでもどこでも聴けるインターネットラジオのようなものです@<fn>{radio}。朝ごはんの準備をしながらTech系のPodcastを聴いて新しい情報をキャッチアップしています。
 
-//footnote[radio][Podcastの聴き方については「ワンストップPodcast」をご覧ください。https://oyakata.booth.pm/items/1488170]
+//footnote[radio][聴き方については ワンストップPodcast @<href>{https://oyakata.booth.pm/items/1488170} をご覧ください。]
 
 === 過剰サービスを捨てる
 限られた時間の中でどれだけ仕事をこなせるかを優先し、過剰なおもてなし意識を捨てます。

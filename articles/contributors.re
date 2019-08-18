@@ -152,4 +152,29 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 IT企業で働くママエンジニアです。自分自身が「子育てをしながら働く社員」としてロールモデルとなり、働きやすい職場をつくることが目標です。
 
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/KANE.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        KANE https://twitter.com/higuyume\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+情報発信をベースに間接的にエンジニアを応援する人！ 人の成長や充実を真剣に考えてます。Podcastを複数配信していることで有名になってきました。
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kirimaru.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        きり丸 https://twitter.com/nainaistar\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+農業大学出身エンジニアで、社会人に入ってから初めて触ったJavaが好き。転職してからエンジニアとしての活動を増やし、その過程で目標設定の大事さに気づいた。
+
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

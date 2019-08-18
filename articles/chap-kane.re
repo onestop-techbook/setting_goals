@@ -12,6 +12,7 @@ KANE＠higuyume
 成し遂げたいことを持っておくと、人生における分岐点に立った時に成し遂げたい方向に近づくかどうかという判断で物事を決めることができるようになります。
 
 成し遂げたいことを考えるPodcast「成し遂げたいam」を作った理由と成し遂げたいことがあることによるメリットを紹介します。
+//footnote[site1][成し遂げたいam： https://anchor.fm/nashio] 
 
 成し遂げたいamは、自分が成し遂げたいと思っていることを探求するPodcastです。すでに成し遂げたいことがある人はそれを発表して、まだ成し遂げたいことが固まっていない人はそれを見つけるそんなPodcastを目指しています。
 
@@ -53,6 +54,8 @@ KANE＠higuyume
 
 === Episode 13&14
 エンジニアリング組織論への招待でおなじみの広木大地さんをゲストにお呼びした回です。
+//footnote[site2][成し遂げたいam ep.13： https://anchor.fm/nashio/episodes/ep-13am--hiroki_daichi-e3sfcv]
+//footnote[site3][成し遂げたいam ep.14： https://anchor.fm/nashio/episodes/ep-14am--hiroki_daichi-e3u5ct]
 
 この回は、自身の目標設定や自身の成し遂げたいことを自分の手の届く範囲に設定してしまう人にお勧めの回となっています。
 
@@ -68,6 +71,7 @@ KANE＠higuyume
 
 === Episode 3
 2019年に成し遂げたいことを語っている会です。
+//footnote[site4][成し遂げたいam ep.3：https://anchor.fm/nashio/episodes/ep-3amKANE20182019-e2r038]
 
 この回は成し遂げたいことを小さく表現することに関して話をしています。
 大きすぎる目標設定をするのが苦手だという人は、直近の1年の成し遂げたいことを設定することから始めてみましょう。

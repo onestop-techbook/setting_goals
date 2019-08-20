@@ -5,6 +5,7 @@ PREDEF:
 CHAPS:
   # 各自書きたい内容とファイル名を追加していく
   - callforpaper.re
+  - chap-mzryuka.re
   - chap-hanahiroaze-content.re
   - chap-KazuyaNakahara-content.re
   - chap-oyakata-10yearsplan.re

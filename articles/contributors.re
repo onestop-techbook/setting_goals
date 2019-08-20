@@ -177,4 +177,18 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 //}
 農業大学出身エンジニアで、社会人に入ってから初めて触ったJavaが好き。転職してからエンジニアとしての活動を増やし、その過程で目標設定の大事さに気づいた。
 
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/Fhe3QTCf_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        オーニシ @onishi\_feuer https://twitter.com/onishi\_feuer\\
+        サークル名：電脳世界
+        \end{minipage}
+    \hspace{1ex}
+//}
+フリーランスでWebマーケティング、Web制作などの活動をしています。多少技術のわかる企画者という感じなのでWebサイト、PCゲーム、YouTube動画、技術書などを自分で勝手に企画して作っていますが受注も請け負っています。自サークルではWordPressとGitと個人事業主の本を出しています。
+
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

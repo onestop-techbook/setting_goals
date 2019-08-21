@@ -191,4 +191,19 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 //}
 フリーランスでWebマーケティング、Web制作などの活動をしています。多少技術のわかる企画者という感じなのでWebサイト、PCゲーム、YouTube動画、技術書などを自分で勝手に企画して作っていますが受注も請け負っています。自サークルではWordPressとGitと個人事業主の本を出しています。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/MzRyuKa_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        みずりゅ @MzRyuKa https://twitter.com/mzryuka\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+のんびりごろごろ、ネコ、うさまる、技術の話は大好きです。SIerですがアジャイルな開発も経験していたりします。
+最近は思うところもあり、色々と活動中。最近のお気に入り言語はGo言語とElixirです。
+
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

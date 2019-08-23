@@ -213,7 +213,7 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
         \includegraphics[width=.75\linewidth]{images/contributors/cube.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        きゅ〜ぶ https://twitter.com/cube_3110\\
+        きゅ〜ぶ https://twitter.com/cube\_3110\\
         \end{minipage}
     \hspace{1ex}
 //}

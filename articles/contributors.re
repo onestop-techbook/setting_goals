@@ -207,7 +207,6 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 最近は思うところもあり、色々と活動中。最近のお気に入り言語はGo言語とElixirです。
 
 
-
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -219,5 +218,20 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
     \hspace{1ex}
 //}
 組み込みC言語エンジニアからキャリアスタートし、現在、PHPやJavaScriptを使ってBtoBのWebシステムの開発をしているWEBエンジニア。Twitterやコミュニティ活動、勉強会、Qiitaなど様々なアウトプットを積極的に実施中。
+
+ 
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/zaki.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ざき @zucky\_zakizaki https://twitter.com/zucky\_zakizaki\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+「ゆるい、お酒、ブログ」が好きなエンジニアです。普段使っている言語は「Ruby、JavaScript（Vue.js）」、興味あるのは「TypeScript」です。横浜界隈で飲むことがあったらぜひ一緒に。
+
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

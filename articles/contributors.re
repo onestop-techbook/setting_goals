@@ -238,4 +238,16 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 「ゆるい、お酒、ブログ」が好きなエンジニアです。普段使っている言語は「Ruby、JavaScript（Vue.js）」、興味あるのは「TypeScript」です。横浜界隈で飲むことがあったらぜひ一緒に。
 
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kawahara_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        sapi\_kawahara（さっぴー川原） https://twitter.com/sapi\_kawahara\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+放浪のエンジニアです。ファミコンゲームの開発から人生をスタートさせプレイステーション2が出たころより、IT業界に転職しました、SESとして客先常駐してから、IoT企業で仕事してます。今回は目標設定における技術取得における心がけと、家庭内タイムマネージメントを書きました。
+
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

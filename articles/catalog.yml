@@ -26,6 +26,7 @@ CHAPS:
   - chap-cube.re
   - chap-zaki.re
   - chap-oyakata-selection.re
+  - chap-sapi_kawahara-speculative_execution.re
 
 
   # 目標を実現するためのタイムマネジメント

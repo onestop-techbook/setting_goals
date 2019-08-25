@@ -250,4 +250,17 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 //}
 放浪のエンジニアです。ファミコンゲームの開発から人生をスタートさせプレイステーション2が出たころより、IT業界に転職しました、SESとして客先常駐してから、IoT企業で仕事してます。今回は目標設定における技術取得における心がけと、家庭内タイムマネージメントを書きました。
 
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/etDVh3D9_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        雛形 (hina) https://twitter.com/hinahypersonica\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+研究者。普段は本とゲームを語ります。
+
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

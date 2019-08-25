@@ -255,7 +255,7 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/barutasosan.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/barutaso.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ばるたそ @barutasosan https://twitter.com/barutasosan\\

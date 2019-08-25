@@ -223,7 +223,7 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 //}
 組み込みC言語エンジニアからキャリアスタートし、現在、PHPやJavaScriptを使ってBtoBのWebシステムの開発をしているWEBエンジニア。Twitterやコミュニティ活動、勉強会、Qiitaなど様々なアウトプットを積極的に実施中。
 
- 
+
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -250,7 +250,9 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 //}
 放浪のエンジニアです。ファミコンゲームの開発から人生をスタートさせプレイステーション2が出たころより、IT業界に転職しました、SESとして客先常駐してから、IoT企業で仕事してます。今回は目標設定における技術取得における心がけと、家庭内タイムマネージメントを書きました。
 
+
 　
+ 
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -262,5 +264,19 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
     \hspace{1ex}
 //}
 研究者。普段は本とゲームを語ります。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/barutaso.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ばるたそ @barutasosan https://twitter.com/barutasosan\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+零細から大手までのIT企業を渡り歩くITエンジニア兼営業補佐。Microsoftに魂を売っている。休日は唄歌いかアニメオタクになる。NHKのど自慢に3回挑戦した行動派。
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

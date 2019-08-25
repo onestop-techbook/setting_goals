@@ -279,4 +279,21 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 //}
 零細から大手までのIT企業を渡り歩くITエンジニア兼営業補佐。Microsoftに魂を売っている。休日は唄歌いかアニメオタクになる。NHKのど自慢に3回挑戦した行動派。
 
+
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nabekura.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        なべくら https://twitter.com/nabe\_\_kurage\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+普段はフロントエンドエンジニアやってます。楽しそうなことには首を突っ込まずにはいられない性格。podcast作ったり、イラスト描いたり、写真撮ったり…物を作ってワクワクしながら生きていきたい！
+
+
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

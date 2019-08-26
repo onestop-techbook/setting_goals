@@ -27,7 +27,8 @@ CHAPS:
   - chap-zaki.re
   - chap-oyakata-selection.re
   - chap-sapi_kawahara-speculative_execution.re
-
+  - chap-hina.re
+  - chap-nabekura-ToDo.re
 
   # 目標を実現するためのタイムマネジメント
 
@@ -36,6 +37,7 @@ CHAPS:
   - chap-oyakata-time.re
   - chap-timebox.re
   - chap-ebichiki.re
+  - chap-nabekura-twittertime.re
 
 APPENDIX:
 

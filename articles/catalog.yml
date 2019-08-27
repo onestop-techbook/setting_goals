@@ -29,6 +29,7 @@ CHAPS:
   - chap-sapi_kawahara-speculative_execution.re
   - chap-hina.re
   - chap-nabekura-ToDo.re
+  - chap-midono.re
 
   # 目標を実現するためのタイムマネジメント
 

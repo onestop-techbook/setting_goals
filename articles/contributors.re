@@ -65,6 +65,8 @@ https://hanahirodev.hatenablog.com/
 国内メーカー系SIer、教育系ベンチャーを経て、スタディプラス株式会社にてサーバーサイドエンジニアとして働いています。
 PyConJP2018, 2019事務局スタッフ。Japan PHP Conference 2018 当日スタッフ。
 
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -223,7 +225,7 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 //}
 組み込みC言語エンジニアからキャリアスタートし、現在、PHPやJavaScriptを使ってBtoBのWebシステムの開発をしているWEBエンジニア。Twitterやコミュニティ活動、勉強会、Qiitaなど様々なアウトプットを積極的に実施中。
 
-
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -237,6 +239,7 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 //}
 「ゆるい、お酒、ブログ」が好きなエンジニアです。普段使っている言語は「Ruby、JavaScript（Vue.js）」、興味あるのは「TypeScript」です。横浜界隈で飲むことがあったらぜひ一緒に。
 
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -295,7 +298,7 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 //}
 普段はフロントエンドエンジニアやってます。楽しそうなことには首を突っ込まずにはいられない性格。podcast作ったり、イラスト描いたり、写真撮ったり…物を作ってワクワクしながら生きていきたい！
 
-
+　
 
 
 //embed{
@@ -310,7 +313,7 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 //}
 ITエンジニアからエンジニアリングマネージャーに転身して1年目の駆け出しEM。会社にとって、社会にとってよいマネジメントとは何かを体現するため日々試行錯誤しています。今回はマネジメント視点での目標設定について持論をまとめてみました。
 
-
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -338,6 +341,19 @@ ITエンジニアからエンジニアリングマネージャーに転身して
 //}
 ITコンサルからムリヤリ独学でWEB系に転職した現エンジニア。個人開発でつくったお笑いライブの検索サービス「ワラリー！」を運営中。そろそろLTデビューしたい。
 
+== 表紙イラスト担当
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/RkmwJH1I_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        湊川あい @llminatoll https://twitter.com/llminatoll\\
+        サークル名：湊川あいの、わかば家。 http://webdesign-manga.com/
+        \end{minipage}
+    \hspace{1ex}
+//}
+絵を描くWeb デザイナー。『わかばちゃんと学ぶ』シリーズなどを描いています。
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

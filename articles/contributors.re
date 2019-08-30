@@ -53,7 +53,7 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/hanahiroaze_400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/hanahiroaze_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         はない @hanahiro\_aze https://twitter.com/hanahiro\_aze\\
@@ -62,9 +62,7 @@
 //}
 https://hanahirodev.hatenablog.com/
 国内メーカー系SIer、教育系ベンチャーを経て、スタディプラス株式会社にてサーバーサイドエンジニアとして働いています。
-PyConJP2018, 2019事務局スタッフ。Japan PHP Conference 2018 スタッフ。
-
-　
+PyConJP2018, 2019事務局スタッフ。Japan PHP Conference 2018 当日スタッフ。
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -295,6 +293,22 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
     \hspace{1ex}
 //}
 普段はフロントエンドエンジニアやってます。楽しそうなことには首を突っ込まずにはいられない性格。podcast作ったり、イラスト描いたり、写真撮ったり…物を作ってワクワクしながら生きていきたい！
+
+
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/midono.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        水殿 @midono\_ap1 https://twitter.com/midono\_ap1\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+ITエンジニアからエンジニアリングマネージャーに転身して1年目の駆け出しEM。会社にとって、社会にとってよいマネジメントとは何かを体現するため日々試行錯誤しています。今回はマネジメント視点での目標設定について持論をまとめてみました。
+
 
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

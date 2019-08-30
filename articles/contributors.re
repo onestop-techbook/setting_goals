@@ -16,6 +16,7 @@
 #@# Fhe3QTCf_400x400.jpg    オーニシ
 #@# hoshimad_400x400.jpg    ほしまど
 #@# youchan_400x400.jpg     youchan
+#@# rubys8arks_400x400.jpg     かしい
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -308,6 +309,20 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
     \hspace{1ex}
 //}
 ITエンジニアからエンジニアリングマネージャーに転身して1年目の駆け出しEM。会社にとって、社会にとってよいマネジメントとは何かを体現するため日々試行錯誤しています。今回はマネジメント視点での目標設定について持論をまとめてみました。
+
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/rubys8arks_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        かしい @rubys8arks https://twitter.com/rubys8arks\_ap1\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+ITコンサルからムリヤリ独学でWEB系に転職した現エンジニア。個人開発でつくったお笑いライブの検索サービス「ワラリー！」を運営中。そろそろLTデビューしたい。
 
 
 

@@ -318,7 +318,8 @@ ITエンジニアからエンジニアリングマネージャーに転身して
         \includegraphics[width=.75\linewidth]{images/contributors/mottox2_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        もっと @mottox2\_ap1 https://twitter.com/mottox2\_ap1\\
+        もっと @mottox2 https://twitter.com/mottox2\\
+		サークル名：つのぶえ出版
         \end{minipage}
     \hspace{1ex}
 //}

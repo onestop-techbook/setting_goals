@@ -316,17 +316,6 @@ ITエンジニアからエンジニアリングマネージャーに転身して
 
 　
 
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/mottox2_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        もっと @mottox2 https://twitter.com/mottox2\\
-        \end{minipage}
-    \hspace{1ex}
-//}
-フリーランスのWebアプリケーションエンジニア。スタートアップや中小企業を中心に開発支援・技術相談・UIデザインを行ってます。「うさぎとかめ」でいえば、コツコツ積み上げる『かめ』タイプです。
 
 　
 

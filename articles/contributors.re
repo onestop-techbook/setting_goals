@@ -356,6 +356,21 @@ ITコンサルからムリヤリ独学でWEB系に転職した現エンジニア
 //}
 SIerやってます。「味噌とんトロ定食」というサークルで技術書出したりしてます。何事にも楽しいチーム作りって必要だなと感じながら日々生きてます。
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/viva_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        森一樹 @viva_tweet_x https://twitter.com/viva_tweet_x
+        サークル名：プロジェクトマネージャ保護者会
+        \end{minipage}
+    \end{minipage}
+    \hspace{1ex}
+//}
+ふりかえりを愛するチームファシリテーター。みんなに強化魔法をかける人。
+エンジニアの全現場にふりかえりを知ってもらうことを1つの目標に活動中。
+現場に1冊、「ふりかえり読本」シリーズ好評発売中。
 
 == 表紙イラスト担当
 

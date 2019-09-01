@@ -308,7 +308,7 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
         \includegraphics[width=.75\linewidth]{images/contributors/midono.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        水殿 @midono\_ap1 https://twitter.com/midono\_ap1\\
+        水殿 @midono https://twitter.com/midono1\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -322,7 +322,7 @@ ITエンジニアからエンジニアリングマネージャーに転身して
         \includegraphics[width=.75\linewidth]{images/contributors/mottox2_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        もっと @mottox2\_ap1 https://twitter.com/mottox2\_ap1\\
+        もっと @mottox2 https://twitter.com/mottox2\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -336,7 +336,7 @@ ITエンジニアからエンジニアリングマネージャーに転身して
         \includegraphics[width=.75\linewidth]{images/contributors/rubys8arks_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        かしい @rubys8arks https://twitter.com/rubys8arks\_ap1\\
+        かしい @rubys8arks https://twitter.com/rubys8arks\\
         \end{minipage}
     \hspace{1ex}
 //}

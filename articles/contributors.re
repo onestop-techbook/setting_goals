@@ -17,6 +17,7 @@
 #@# hoshimad_400x400.jpg    ほしまど
 #@# youchan_400x400.jpg     youchan
 #@# rubys8arks_400x400.jpg     かしい
+#@# shuichiro_400x400.jpg     しゅういちろ
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -340,6 +341,21 @@ ITエンジニアからエンジニアリングマネージャーに転身して
     \hspace{1ex}
 //}
 ITコンサルからムリヤリ独学でWEB系に転職した現エンジニア。個人開発でつくったお笑いライブの検索サービス「ワラリー！」を運営中。そろそろLTデビューしたい。
+
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/shuichiro_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        しゅういちろ @shucho0103 https://twitter.com/shucho0103\\
+        サークル名：味噌とんトロ定食 https://misoton.booth.pm/
+        \end{minipage}
+    \hspace{1ex}
+//}
+SIerやってます。「味噌とんトロ定食」というサークルで技術書出したりしてます。何事にも楽しいチーム作りって必要だなと感じながら日々生きてます。
+
 
 == 表紙イラスト担当
 

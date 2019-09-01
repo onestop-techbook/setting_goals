@@ -86,14 +86,14 @@ SIer経験、メガベンチャーを経て、現在はAIを開発する会社�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/komacchi_400x400.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/komacchi.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        こまっち @komacchi\_u https://twitter.com/komacchi\_u\\
-                \end{minipage}
+        こまっち https://twitter.com/komacchi\_u\\
+        \end{minipage}
     \hspace{1ex}
 //}
-製品サポート、システム運用、開発保守、インフラ構築(オンプレミス)などさまざまな経験を得て、現在、クラウド案件に携わっています。
+普段は、インフラエンジニア(クラウド・IaaS・セキュリティ)をしております。製品サポート、システム運用、開発保守、インフラ構築(オンプレミス)などさまざまな経験を得て、今に至ります。最近は、筋トレ、ファンクショナルトレーニングにハマっています。目指せ筋トレエンジニア！
 
 　
 
@@ -308,7 +308,7 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
         \includegraphics[width=.75\linewidth]{images/contributors/midono.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        水殿 @midono https://twitter.com/midono1\\
+        水殿 @midono\_ap1 https://twitter.com/midono\_ap1\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -316,6 +316,17 @@ ITエンジニアからエンジニアリングマネージャーに転身して
 
 　
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/mottox2_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        もっと @mottox2 https://twitter.com/mottox2\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+フリーランスのWebアプリケーションエンジニア。スタートアップや中小企業を中心に開発支援・技術相談・UIデザインを行ってます。「うさぎとかめ」でいえば、コツコツ積み上げる『かめ』タイプです。
 
 　
 
@@ -332,6 +343,7 @@ ITエンジニアからエンジニアリングマネージャーに転身して
 ITコンサルからムリヤリ独学でWEB系に転職した現エンジニア。個人開発でつくったお笑いライブの検索サービス「ワラリー！」を運営中。そろそろLTデビューしたい。
 
 　
+
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -357,7 +369,6 @@ SIerやってます。「味噌とんトロ定食」というサークルで技�
         森一樹 @viva\_tweet\_x https://twitter.com/viva\_tweet\_x\\
         サークル名：プロジェクトマネージャ保護者会
         \end{minipage}
-    \end{minipage}
     \hspace{1ex}
 //}
 ふりかえりを愛するチームファシリテーター。みんなに強化魔法をかける人。

@@ -343,6 +343,7 @@ ITエンジニアからエンジニアリングマネージャーに転身して
 ITコンサルからムリヤリ独学でWEB系に転職した現エンジニア。個人開発でつくったお笑いライブの検索サービス「ワラリー！」を運営中。そろそろLTデビューしたい。
 
 　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -356,13 +357,15 @@ ITコンサルからムリヤリ独学でWEB系に転職した現エンジニア
 //}
 SIerやってます。「味噌とんトロ定食」というサークルで技術書出したりしてます。何事にも楽しいチーム作りって必要だなと感じながら日々生きてます。
 
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
         \includegraphics[width=.75\linewidth]{images/contributors/viva_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        森一樹 @viva_tweet_x https://twitter.com/viva_tweet_x
+        森一樹 @viva\_tweet\_x https://twitter.com/viva\_tweet\_x\\
         サークル名：プロジェクトマネージャ保護者会
         \end{minipage}
     \end{minipage}

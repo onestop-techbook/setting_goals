@@ -344,6 +344,7 @@ ITコンサルからムリヤリ独学でWEB系に転職した現エンジニア
 
 　
 
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -368,7 +369,6 @@ SIerやってます。「味噌とんトロ定食」というサークルで技�
         森一樹 @viva\_tweet\_x https://twitter.com/viva\_tweet\_x\\
         サークル名：プロジェクトマネージャ保護者会
         \end{minipage}
-    \end{minipage}
     \hspace{1ex}
 //}
 ふりかえりを愛するチームファシリテーター。みんなに強化魔法をかける人。

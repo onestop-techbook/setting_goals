@@ -398,7 +398,7 @@ SIerやってます。「味噌とんトロ定食」というサークルで技�
         \includegraphics[width=.75\linewidth]{images/contributors/souju.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        双樹 @sarah_souju https://twitter.com/sarah_souju\\
+        双樹 @sarah\_souju https://twitter.com/sarah\_souju\\
         \end{minipage}
     \hspace{1ex}
 //}

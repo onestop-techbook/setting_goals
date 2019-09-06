@@ -390,6 +390,27 @@ SIerやってます。「味噌とんトロ定食」というサークルで技�
 //}
 メタプログラミング、TypeScript、VSCode、React Hooks大好き！技術書典7ではクリーンアーキテクチャ本ができあがっているはず。東京ラビットハウスのブースで僕と握手！
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/souju.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        双樹 @sarah_souju https://twitter.com/sarah_souju\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+ツイ廃のRT職人。生物地学環境人文科学等に興味があります。知識がつながる瞬間を求めて生きてます。
+最近はまってるのは刀剣乱舞＆文豪とアルケミスト＆fgo。人知れず絶滅しそうな生物の擬人化ボドゲとかないかなあ。
+
+twitterID：sarah_souju→生物画像注意。生態系とQOLを憂う内容多し。
+
+創作垢：soujuever→レジンとかアクセサリーとか。放置気味
+
+
+
 == 表紙イラスト担当
 
 //embed{

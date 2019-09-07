@@ -116,6 +116,22 @@ PMチームでDB担当しながら、副業で会社設立し、Management3.0の
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kawagoi400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        川鯉光起　
+        kawagoi　@kawagoik　https://twitter.com/kawagoik\\
+        教育心理学を学ぶ会
+    \end{minipage}
+    \hspace{1ex}
+//}
+みなさんの「楽しく働く」ことを支援することを生きがいに仕事や趣味をやっております。情報系の大学院卒後、Webエンジニアを6年ほど勤め、現在はアジャイルコーチとして勤務したり、独立してワークショップや研修をしています。心理学関係の研究を使って現場を活性化したり、研修として、交渉・提案力アップのワークショップや、自己肯定感アップのワークショップ実施しています。技術書典では、「アジャイルコーチからのアドバイス」「理論と事例でわかる自己肯定感」「理論と事例でわかるモチベーション」に関わりました。https://education.booth.pm/
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
         \includegraphics[width=.75\linewidth]{images/contributors/manamin.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
@@ -125,7 +141,9 @@ PMチームでDB担当しながら、副業で会社設立し、Management3.0の
     \end{minipage}
     \hspace{1ex}
 //}
-大手広告Web系企業にて、Webディレクター、商品企画、人事を経て2019年1月より独立。現在はIT業界における職場内のコミュケーション支援（1on1など）、社員のメンタリング、研修、ファシリテーションを通して人材開発に取り組んでいる。一人一人に親身になる寄り添うことをモットーにヒアリングを通して個々が働きやすい環境をつくるお手伝いをしている。技術書典6では現場の「ズレ」を解消するコミュケーションメソッドを執筆した。https://careerupdate.booth.pm/items/1314405
+大手広告Web系企業にて、Webディレクター、商品企画、人事を経て2019年1月より独立。現在はIT業界における職場内のコミュケーション支援（1on1など）、社員のメンタリング、研修、ファシリテーションを通して人材開発に取り組んでいる。一人一人に親身になる寄り添うことをモットーにヒアリングを通して個々が働きやすい環境をつくるお手伝いをしている。技術書典6では現場の「ズレ」を解消するコミュケーションメソッドを執筆した。技術書典7では「会話の引き出しを増やす 1on1カード」を出します！
+boothページ https://careerupdate.booth.pm
+
 
 　
 

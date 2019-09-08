@@ -21,7 +21,7 @@ CHAPS:
   - chap-mottox2.re
   - chap-viva.re
   - chap-sapi_kawahara-speculative_execution.re
- 
+
 
   # 実例
   - chap-oyakata-1on1.re
@@ -35,9 +35,10 @@ CHAPS:
   - chap-nabekura-ToDo.re
   - chap-zaki.re
   - chap-midono.re
+  - chap-barutaso-example.re
 
   # まとめ
-  - chap-forte.re  
+  - chap-forte.re
   - chap-oyakata-selection.re
 
   # 目標を実現するためのタイムマネジメント

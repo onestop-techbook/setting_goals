@@ -6,37 +6,44 @@ CHAPS:
   # 各自書きたい内容とファイル名を追加していく
   - callforpaper.re
   - chap-mzryuka.re
+  - chap-barutaso-creategoal.re
+
+  # technich
+  - chap-hina.re
   - chap-hanahiroaze-content.re
   - chap-KazuyaNakahara-content.re
   - chap-oyakata-10yearsplan.re
+  - chap-komacchi.re
+  - chap-manamin.re
+  - chap-erukiti-todo.re
+  - chap-onishi.re
+  - chap-cube.re
+  - chap-mottox2.re
+  - chap-viva.re
+  - chap-sapi_kawahara-speculative_execution.re
+ 
+
+  # 実例
   - chap-oyakata-1on1.re
   - nemu.re
-  - chap-komacchi.re
   - chap-kawagoi-enjoyable.re
-  - chap-manamin.re
   - chap-souju.re
-  - chap-forte.re
   - chap-erukiti-easy.re
-  - chap-erukiti-todo.re
+  - chap-erukiti-easy.re
   - chap-forte_retrospective.re
   - chap-kane.re
   - chap-kirimaru.re
-  - chap-onishi.re
-  - chap-barutaso-creategoal.re
-  - chap-cube.re
-  - chap-zaki.re
-  - chap-oyakata-selection.re
-  - chap-sapi_kawahara-speculative_execution.re
-  - chap-hina.re
   - chap-nabekura-ToDo.re
+  - chap-zaki.re
   - chap-midono.re
-  - chap-mottox2.re
-  - chap-viva.re
+
+  # まとめ
+  - chap-forte.re  
+  - chap-oyakata-selection.re
 
   # 目標を実現するためのタイムマネジメント
-
-  - chap-lean-with-kid.re
   - chap-survey.re
+  - chap-lean-with-kid.re
   - chap-oyakata-time.re
   - chap-timebox.re
   - chap-ebichiki.re

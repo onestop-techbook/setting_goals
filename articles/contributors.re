@@ -63,9 +63,9 @@
     \hspace{1ex}
 //}
 https://hanahirodev.hatenablog.com/
-国内メーカー系SIer、教育系ベンチャーを経て、スタディプラス株式会社にてサーバーサイドエンジニアとして働いています。
-PyCon JP 2018, 2019事務局スタッフ。Japan PHP Conference 2018 当日スタッフ。
-CSM®
+国内メーカー系SIer、ベンチャー数社を経て、スクラムマスターとして働いています。
+PyCon JP 2018, 2019, 2020事務局スタッフ。Japan PHP Conference 2018, 2019, 2020 当日スタッフ。
+A-CSM® CSPO®
 
 　
 

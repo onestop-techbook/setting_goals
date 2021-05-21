@@ -4,7 +4,7 @@ PREDEF:
 
 CHAPS:
   # 各自書きたい内容とファイル名を追加していく
-  - callforpaper.re
+ 
   - chap-mzryuka.re
   - chap-barutaso-creategoal.re
 
@@ -55,6 +55,7 @@ CHAPS:
   - chap-sapi_kawahara-time.re
 
 APPENDIX:
+  - callforpaper.re
 
 POSTDEF:
   # あとがき

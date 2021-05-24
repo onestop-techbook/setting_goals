@@ -428,7 +428,23 @@ twitterID：sarah_souju→生物画像注意。生態系とQOLを憂う内容多
 
 創作垢：soujuever→レジンとかアクセサリーとか。放置気味
 
+　
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ditflame_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ふーれむ @ditflame https://twitter.com/ditflame\\
+        Qiitaでちょこちょこ技術ネタ書いたりしてます。 https://qiita.com/ditflame\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+大阪在住。前職はSIerでしたが５年前に飽きて今はよくわからない仕事(敢えていうなら社内SEですね…)になりました。
+フルスタックというよりはオールラウンダー雑用型です。もしくは古スタックといった方がしっくり来るような。
+
+　
 
 == 表紙イラスト担当
 

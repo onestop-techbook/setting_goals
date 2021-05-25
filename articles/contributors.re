@@ -264,7 +264,7 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/kawahara_400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/sapi_kawahara.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         sapi\_kawahara（さっぴー川原） https://twitter.com/sapi\_kawahara\\

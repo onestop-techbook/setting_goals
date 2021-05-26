@@ -79,6 +79,7 @@
 
 //footnote[SHIKEN][https://www.jitec.ipa.go.jp/1_13download/youkou_ver4_6.pdf]
 
+//image[ipa-testmatrix][情報処理技術者試験の試験区分出題範囲一覧表(午前試験)][scale=0.5]
 
 恐らくですが、マルチメディア分野においては情報処理技術者試験とは別にCG検定が既に試験制度としては確立しており、
 CG検定については元々は技能検定だったことからかつては公的資格だったという歴史的な経緯もあって、

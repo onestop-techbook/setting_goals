@@ -55,7 +55,7 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/hanahiroaze_400x400.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/hanahiroaze_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         はない @hanahiro\_aze https://twitter.com/hanahiro\_aze\\
@@ -164,7 +164,7 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/ebichiki.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/ebichiki.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         えびちき https://twitter.com/ebichiki\\
@@ -250,7 +250,7 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/zaki.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/zaki.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ざき @zucky\_zakizaki https://twitter.com/zucky\_zakizaki\\
@@ -264,7 +264,7 @@ IT企業で働くママエンジニアです。自分自身が「子育てをし
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/sapi_kawahara.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/sapi_kawahara.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         sapi\_kawahara（さっぴー川原） https://twitter.com/sapi\_kawahara\\
